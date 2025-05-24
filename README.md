@@ -1,3 +1,5 @@
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Aasthajoshay)
 - 👋 Hi, I’m @Aasthajoshay
 - 👀 I’m interested in new technologies that can make a change
 - 🌱 I’m currently learning AI,ML
