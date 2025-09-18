@@ -11,7 +11,7 @@
 
 ### 👩‍💻 Things no one asked
 
-- 🎓 developer who loves to build projects around web development, AI/ML, and design.
+- 🎓 developer who loves to build projects around GenAI, AI/ML, and design.
 - 💡 prolly learning new stuff and open to building software that make life less boring.
 - 📫 How to reach me: **aasthajoshi09@gmail.com**(yes, I check it more often than I check my fridge).
 
